@@ -4,6 +4,7 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
+//Reports
 
 // Generates a clean department merit list using a custom manual bubble sort loop
 void generateMeritList(const std::string& dept) {
