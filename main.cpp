@@ -7,6 +7,7 @@
 #include "grades.h"
 #include "fee_tracker.h"
 #include "reports.h"
+//This is the main function
 
 // Helper function to show structural console interface sub-headers
 void displayHeader(const std::string& title) {
