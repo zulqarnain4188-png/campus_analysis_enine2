@@ -105,3 +105,4 @@ int findRow(const DataRow rows[], int rowCount, int colIndex, const std::string&
 bool rowExists(const DataRow rows[], int rowCount, int colIndex, const std::string& targetValue) {
     return findRow(rows, rowCount, colIndex, targetValue) != -1;
 }
+//hy
