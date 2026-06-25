@@ -208,4 +208,5 @@ Stats computeClassState(const std::string& courseCode) {
     }
 
     return classStats;
+    //what is this
 }
